@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shape Area Calculator", "Shape Area Calculator.vcxproj", "{BD898D7A-24CE-432F-B8EC-28291F350806}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD898D7A-24CE-432F-B8EC-28291F350806}.Debug|x64.ActiveCfg = Debug|x64
+		{BD898D7A-24CE-432F-B8EC-28291F350806}.Debug|x64.Build.0 = Debug|x64
+		{BD898D7A-24CE-432F-B8EC-28291F350806}.Debug|x86.ActiveCfg = Debug|Win32
+		{BD898D7A-24CE-432F-B8EC-28291F350806}.Debug|x86.Build.0 = Debug|Win32
+		{BD898D7A-24CE-432F-B8EC-28291F350806}.Release|x64.ActiveCfg = Release|x64
+		{BD898D7A-24CE-432F-B8EC-28291F350806}.Release|x64.Build.0 = Release|x64
+		{BD898D7A-24CE-432F-B8EC-28291F350806}.Release|x86.ActiveCfg = Release|Win32
+		{BD898D7A-24CE-432F-B8EC-28291F350806}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B014B176-BAD2-4A98-9054-C8F80A6F78B0}
+	EndGlobalSection
+EndGlobal
