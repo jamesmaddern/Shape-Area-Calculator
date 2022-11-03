@@ -7,9 +7,9 @@
 
 int main()
 {
-    //Triangle t();
-    Triangle t(10,5);
-    Rectangle r(2,3);
+    
+    Triangle t(10,5);   //Create an instance of a triangle
+    Rectangle r(2,3);   //Create an instance of a rectangle
     std:: cout << t.area() << "\n";
     std::cout << r.area();
 

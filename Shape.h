@@ -2,7 +2,7 @@
 class Shape
 {
 private:
-	int width, height;
+	int width, height;	
 public:
 	Shape(int, int);
 	int area();
